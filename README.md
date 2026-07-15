@@ -2,7 +2,6 @@
 
 A focused slice of the Crew mobile experience: a high-performance travel discovery feed paired with an AI chat assistant in a bottom sheet.
 
-Built as part of the **CREW | SDE2/3 | RN Hiring** assignment.
 
 ## Requirements
 
