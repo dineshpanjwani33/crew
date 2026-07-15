@@ -80,34 +80,74 @@ A short **BUSY** flash is expected when opening the Gorhom bottom sheet (one-tim
 6. Optionally expand a few cards mid-scroll
 7. Record: FPS (30f avg), frame drops, p50, p95, worst frame, total frames
 
+### Benchmark results — Android Emulator (3m 30s scroll, Jul 2026)
+
+**Device:** Android Emulator — Medium_Phone API 36  
+**Test:** Continuous feed scroll for **3 minutes 30 seconds** with PERF panel open  
+**Mid-test action:** Opened **Ask Crew** bottom sheet around the ~1 minute mark  
+**Network:** Corporate VPN (images may not load)
+
+#### Checkpoint ~1 min (before / around bottom sheet open)
+
+| Metric | Value | Assessment |
+|---|---|---|
+| **FPS (30f avg)** | 60 | Excellent — at target |
+| **p50 frame time** | 16.7 ms | Excellent — ~60 FPS median |
+| **p95 frame time** | 19.4 ms | Excellent — 95% of frames under 20 ms |
+| **Worst frame** | 73 ms | One-off hitch (~14 FPS spike); likely card mount or sheet open |
+| **Frame drops (<45 FPS)** | 367 | Includes early warmup spikes + scattered scroll hitches |
+| **JS thread** | idle | No JS blocking |
+| **Total frames** | 1,002 | ~17s of sampling at this checkpoint |
+| **Window (max 600)** | 600 | Rolling buffer full |
+
+#### Final — 3m 30s (after bottom sheet open + continued scroll)
+
+| Metric | Value | Assessment |
+|---|---|---|
+| **FPS (30f avg)** | 60 | Excellent — held through full session |
+| **p50 frame time** | 16.7 ms | Unchanged — median stayed healthy |
+| **p95 frame time** | 19.5 ms | Unchanged — no degradation after sheet open |
+| **Worst frame** | 111 ms | New peak (~9 FPS spike); attributable to Gorhom sheet mount |
+| **Frame drops (<45 FPS)** | 416 | Only **+49** drops in ~2.5 min after midpoint |
+| **JS thread** | idle | No sustained JS blocking, even after sheet open |
+| **Total frames** | 10,672 | Full session sample count |
+| **Window (max 600)** | 600 | Rolling buffer capped as designed |
+
+**Interpretation:** Scroll performance is **healthy and stable** across the full 3m 30s session.
+
+- **p50 / p95 unchanged** (16.7 / 19.4 → 19.5 ms) — the rolling window shows no sustained jank before or after opening the bottom sheet.
+- **FPS held at 60** throughout — virtualization and card tuning are working.
+- **Worst frame 73 → 111 ms** — the +38 ms increase aligns with opening Ask Crew (one-time Gorhom mount). This is a single-frame spike, not sustained low FPS.
+- **Frame drops +49 after midpoint** over ~2.5 additional minutes ≈ **0.3 drops/sec** — very low hitch rate during continued scroll.
+- **JS thread idle** — confirms scroll is not blocked by sync JS work; sheet open did not cause ongoing thread pressure.
+
+**Drop-rate context:** Early frame drops (367 in the first ~1 min) include panel warmup and initial list churn. The low increment (+49) after midpoint is the stronger signal — scroll stayed smooth for the majority of the run.
+
 ### Benchmark results — Android Emulator (9s scroll, Jul 2026)
 
 **Device:** Android Emulator — Medium_Phone API 36  
-**Test:** Continuous feed scroll for ~9 seconds with PERF panel open  
+**Test:** Early continuous feed scroll for ~9 seconds with PERF panel open  
 **Network:** Corporate VPN (images not loading — cards show empty image area)
 
 | Metric | Value | Assessment |
 |---|---|---|
-| **Live FPS** | 52–55 | Good — near 60 FPS target |
+| **FPS (30f avg)** | 52–55 | Good — near 60 FPS target |
 | **p50 frame time** | 16.7 ms | Excellent — ~60 FPS median |
 | **p95 frame time** | 20.9 ms | Excellent — 95% of frames under 21 ms |
 | **Worst frame** | 59.4 ms | One stutter (~17 FPS spike); likely image layout or list batch mount |
-| **Frame drops (<45 FPS)** | 63 | ~3.7% of samples exceeded 22.2 ms threshold |
+| **Frame drops (<45 FPS)** | 63 | Scattered spikes during initial scroll |
 | **JS thread** | idle | No JS blocking during scroll |
-| **Samples** | ~1,700 | Cumulative since app launch (not reset per scroll) |
-
-**Interpretation:** Scroll performance is healthy. Median and p95 frame times are well within budget. The 63 frame drops are scattered spikes (not sustained jank) — consistent with occasional card mount/image decode on emulator. JS thread staying idle confirms virtualization is doing its job; no sync JS work blocking scroll.
+| **Total frames** | ~1,700 | Early session (not reset per scroll) |
 
 **Before vs after tuning (this build):**
 
-| Metric | Naive FlatList (est.) | Tuned FlatList (measured) |
+| Metric | Naive FlatList (est.) | Tuned FlatList (3m 30s measured) |
 |---|---|---|
 | p50 frame time | ~25–35 ms | **16.7 ms** |
-| p95 frame time | ~45–80 ms | **20.9 ms** |
-| Worst frame | ~100–200+ ms | **59.4 ms** |
+| p95 frame time | ~45–80 ms | **19.5 ms** |
+| Worst frame | ~100–200+ ms | **111 ms** (sheet mount spike) |
 | JS thread busy | Occasional | **idle** during scroll |
-
-> For a full **60s** run, tap **Reset** then scroll and update frame drops / sample count.
+| FPS (30f avg) | ~40–50 | **60** |
 
 ---
 
