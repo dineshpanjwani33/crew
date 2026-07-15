@@ -1,4 +1,4 @@
-# Crew — Travel Discovery App
+# Crew
 
 A focused slice of the Crew mobile experience: a high-performance travel discovery feed paired with an AI chat assistant in a bottom sheet.
 
