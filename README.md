@@ -66,6 +66,10 @@ See [PERFORMANCE.md](./PERFORMANCE.md) for methodology, FlatList tuning, overlay
 - FlatList used instead of FlashList; documented upgrade path in [PERFORMANCE.md](./PERFORMANCE.md)
 - Demo video not yet recorded — see benchmark steps in PERFORMANCE.md
 
+## Screenshots/Video
+
+Video Link: https://drive.google.com/file/d/1GTOYkzsegvL1Me1JOIxU7E2OGcUpZFWn/view?usp=sharing
+
 ## License
 
 MIT
