@@ -1,0 +1,3662 @@
+[
+  {
+    "id": "bundle-001",
+    "destination": "Bali, Indonesia Escape",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "3 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-1/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-002",
+    "destination": "Maldives",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "4 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-2/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-003",
+    "destination": "Tokyo, Japan",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "5 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-3/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-004",
+    "destination": "Paris, France",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "6 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-4/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-005",
+    "destination": "Santorini, Greece",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "7 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-5/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-006",
+    "destination": "Dubai, UAE",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "8 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-6/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-007",
+    "destination": "Kyoto, Japan",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "10 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-7/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-008",
+    "destination": "Barcelona, Spain Escape",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "12 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-8/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-009",
+    "destination": "Reykjavik, Iceland",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "3 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-9/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-010",
+    "destination": "Queenstown, New Zealand",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "4 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-10/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-011",
+    "destination": "Kerala, India",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "5 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-11/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-012",
+    "destination": "Goa, India",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "6 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-12/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-013",
+    "destination": "Manali, India",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "7 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-13/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-014",
+    "destination": "Ladakh, India",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "8 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-14/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-015",
+    "destination": "Singapore Escape",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "10 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-15/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-016",
+    "destination": "Bangkok, Thailand",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "12 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-16/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-017",
+    "destination": "Rome, Italy",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "3 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-17/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-018",
+    "destination": "London, UK",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "4 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-18/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-019",
+    "destination": "Swiss Alps",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "5 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-19/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-020",
+    "destination": "Marrakech, Morocco",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "6 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-20/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-021",
+    "destination": "Cusco, Peru",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "7 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-21/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-022",
+    "destination": "Costa Rica Escape",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "8 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-22/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-023",
+    "destination": "Bergen, Norway",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "10 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-23/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-024",
+    "destination": "Maui, Hawaii",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "12 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-24/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-025",
+    "destination": "Sydney, Australia",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "3 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-25/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-026",
+    "destination": "Cape Town, South Africa",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "4 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-26/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-027",
+    "destination": "Istanbul, Turkey",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "5 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-27/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-028",
+    "destination": "Prague, Czechia",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "6 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-28/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-029",
+    "destination": "Vienna, Austria Escape",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "7 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-29/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-030",
+    "destination": "Amalfi Coast, Italy",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "8 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-30/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-031",
+    "destination": "Jaipur, India",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "10 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-31/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-032",
+    "destination": "Udaipur, India",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "12 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-32/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-033",
+    "destination": "Phuket, Thailand",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "3 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-33/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-034",
+    "destination": "Seoul, South Korea",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "4 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-34/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-035",
+    "destination": "Lisbon, Portugal",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "5 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-35/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-036",
+    "destination": "Zermatt, Switzerland Escape",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "6 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-36/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-037",
+    "destination": "Mauritius",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "7 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-37/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-038",
+    "destination": "Bora Bora",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "8 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-38/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-039",
+    "destination": "Petra, Jordan",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "10 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-39/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-040",
+    "destination": "Serengeti, Tanzania",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "12 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-40/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-041",
+    "destination": "Bali, Indonesia",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "3 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-41/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-042",
+    "destination": "Maldives",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "4 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-42/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-043",
+    "destination": "Tokyo, Japan Escape",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "5 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-43/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-044",
+    "destination": "Paris, France",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "6 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-44/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-045",
+    "destination": "Santorini, Greece",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "7 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-45/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-046",
+    "destination": "Dubai, UAE",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "8 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-46/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-047",
+    "destination": "Kyoto, Japan",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "10 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-47/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-048",
+    "destination": "Barcelona, Spain",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "12 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-48/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-049",
+    "destination": "Reykjavik, Iceland",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "3 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-49/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-050",
+    "destination": "Queenstown, New Zealand Escape",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "4 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-50/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-051",
+    "destination": "Kerala, India",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "5 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-51/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-052",
+    "destination": "Goa, India",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "6 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-52/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-053",
+    "destination": "Manali, India",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "7 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-53/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-054",
+    "destination": "Ladakh, India",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "8 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-54/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-055",
+    "destination": "Singapore",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "10 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-55/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-056",
+    "destination": "Bangkok, Thailand",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "12 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-56/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-057",
+    "destination": "Rome, Italy Escape",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "3 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-57/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-058",
+    "destination": "London, UK",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "4 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-58/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-059",
+    "destination": "Swiss Alps",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "5 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-59/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-060",
+    "destination": "Marrakech, Morocco",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "6 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-60/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-061",
+    "destination": "Cusco, Peru",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "7 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-61/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-062",
+    "destination": "Costa Rica",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "8 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-62/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-063",
+    "destination": "Bergen, Norway",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "10 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-63/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-064",
+    "destination": "Maui, Hawaii Escape",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "12 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-64/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-065",
+    "destination": "Sydney, Australia",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "3 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-65/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-066",
+    "destination": "Cape Town, South Africa",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "4 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-66/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-067",
+    "destination": "Istanbul, Turkey",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "5 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-67/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-068",
+    "destination": "Prague, Czechia",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "6 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-68/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-069",
+    "destination": "Vienna, Austria",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "7 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-69/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-070",
+    "destination": "Amalfi Coast, Italy",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "8 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-70/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-071",
+    "destination": "Jaipur, India Escape",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "10 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-71/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-072",
+    "destination": "Udaipur, India",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "12 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-72/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-073",
+    "destination": "Phuket, Thailand",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "3 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-73/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-074",
+    "destination": "Seoul, South Korea",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "4 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-74/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-075",
+    "destination": "Lisbon, Portugal",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "5 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-75/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-076",
+    "destination": "Zermatt, Switzerland",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "6 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-76/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-077",
+    "destination": "Mauritius",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "7 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-77/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-078",
+    "destination": "Bora Bora Escape",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "8 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-78/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-079",
+    "destination": "Petra, Jordan",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "10 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-79/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-080",
+    "destination": "Serengeti, Tanzania",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "12 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-80/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-081",
+    "destination": "Bali, Indonesia",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "3 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-81/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-082",
+    "destination": "Maldives",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "4 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-82/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-083",
+    "destination": "Tokyo, Japan",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "5 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-83/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-084",
+    "destination": "Paris, France",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "6 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-84/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-085",
+    "destination": "Santorini, Greece Escape",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "7 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-85/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-086",
+    "destination": "Dubai, UAE",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "8 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-86/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-087",
+    "destination": "Kyoto, Japan",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "10 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-87/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-088",
+    "destination": "Barcelona, Spain",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "12 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-88/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-089",
+    "destination": "Reykjavik, Iceland",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "3 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-89/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-090",
+    "destination": "Queenstown, New Zealand",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "4 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-90/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-091",
+    "destination": "Kerala, India",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "5 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-91/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-092",
+    "destination": "Goa, India Escape",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "6 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-92/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-093",
+    "destination": "Manali, India",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "7 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-93/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-094",
+    "destination": "Ladakh, India",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "8 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-94/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-095",
+    "destination": "Singapore",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "10 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-95/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-096",
+    "destination": "Bangkok, Thailand",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "12 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-96/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-097",
+    "destination": "Rome, Italy",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "3 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-97/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-098",
+    "destination": "London, UK",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "4 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-98/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-099",
+    "destination": "Swiss Alps Escape",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "5 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-99/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-100",
+    "destination": "Marrakech, Morocco",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "6 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-100/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-101",
+    "destination": "Cusco, Peru",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "7 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-101/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-102",
+    "destination": "Costa Rica",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "8 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-102/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-103",
+    "destination": "Bergen, Norway",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "10 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-103/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-104",
+    "destination": "Maui, Hawaii",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "12 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-104/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-105",
+    "destination": "Sydney, Australia",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "3 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-105/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-106",
+    "destination": "Cape Town, South Africa Escape",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "4 nights",
+    "rating": 3.6,
+    "imageUrl": "https://picsum.photos/seed/crew-106/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-107",
+    "destination": "Istanbul, Turkey",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "5 nights",
+    "rating": 3.7,
+    "imageUrl": "https://picsum.photos/seed/crew-107/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-108",
+    "destination": "Prague, Czechia",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "6 nights",
+    "rating": 3.8,
+    "imageUrl": "https://picsum.photos/seed/crew-108/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-109",
+    "destination": "Vienna, Austria",
+    "tripType": "Flight + Stay",
+    "price": 1200,
+    "duration": "7 nights",
+    "rating": 3.9,
+    "imageUrl": "https://picsum.photos/seed/crew-109/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-110",
+    "destination": "Amalfi Coast, Italy",
+    "tripType": "Villa",
+    "price": 2025,
+    "duration": "8 nights",
+    "rating": 4,
+    "imageUrl": "https://picsum.photos/seed/crew-110/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-111",
+    "destination": "Jaipur, India",
+    "tripType": "Experience",
+    "price": 1350,
+    "duration": "10 nights",
+    "rating": 4.1,
+    "imageUrl": "https://picsum.photos/seed/crew-111/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      }
+    ]
+  },
+  {
+    "id": "bundle-112",
+    "destination": "Udaipur, India",
+    "tripType": "Hotel",
+    "price": 1725,
+    "duration": "12 nights",
+    "rating": 4.2,
+    "imageUrl": "https://picsum.photos/seed/crew-112/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      },
+      {
+        "day": 4,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-113",
+    "destination": "Phuket, Thailand Escape",
+    "tripType": "Flight + Stay",
+    "price": 1950,
+    "duration": "3 nights",
+    "rating": 4.3,
+    "imageUrl": "https://picsum.photos/seed/crew-113/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "bundle-114",
+    "destination": "Seoul, South Korea",
+    "tripType": "Villa",
+    "price": 2775,
+    "duration": "4 nights",
+    "rating": 4.4,
+    "imageUrl": "https://picsum.photos/seed/crew-114/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      },
+      {
+        "day": 4,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "id": "bundle-115",
+    "destination": "Lisbon, Portugal",
+    "tripType": "Experience",
+    "price": 1950,
+    "duration": "5 nights",
+    "rating": 4.5,
+    "imageUrl": "https://picsum.photos/seed/crew-115/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      }
+    ]
+  },
+  {
+    "id": "bundle-116",
+    "destination": "Zermatt, Switzerland",
+    "tripType": "Hotel",
+    "price": 2475,
+    "duration": "6 nights",
+    "rating": 4.6,
+    "imageUrl": "https://picsum.photos/seed/crew-116/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      },
+      {
+        "day": 2,
+        "title": "Temple and heritage trail",
+        "icon": "🛕"
+      },
+      {
+        "day": 3,
+        "title": "Spa and wellness session",
+        "icon": "💆"
+      },
+      {
+        "day": 4,
+        "title": "Arrival and local food tour",
+        "icon": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "bundle-117",
+    "destination": "Mauritius",
+    "tripType": "Flight + Stay",
+    "price": 2700,
+    "duration": "7 nights",
+    "rating": 4.7,
+    "imageUrl": "https://picsum.photos/seed/crew-117/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Beach and water activities",
+        "icon": "🏖️"
+      },
+      {
+        "day": 2,
+        "title": "Local market exploration",
+        "icon": "🛍️"
+      },
+      {
+        "day": 3,
+        "title": "Hot air balloon ride",
+        "icon": "🎈"
+      }
+    ]
+  },
+  {
+    "id": "bundle-118",
+    "destination": "Bora Bora",
+    "tripType": "Villa",
+    "price": 3375,
+    "duration": "8 nights",
+    "rating": 4.8,
+    "imageUrl": "https://picsum.photos/seed/crew-118/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      },
+      {
+        "day": 2,
+        "title": "Cooking class with chef",
+        "icon": "👨‍🍳"
+      },
+      {
+        "day": 3,
+        "title": "Guided city walk",
+        "icon": "🚶"
+      },
+      {
+        "day": 4,
+        "title": "Wine and culture evening",
+        "icon": "🍷"
+      }
+    ]
+  },
+  {
+    "id": "bundle-119",
+    "destination": "Petra, Jordan",
+    "tripType": "Experience",
+    "price": 2700,
+    "duration": "10 nights",
+    "rating": 4.9,
+    "imageUrl": "https://picsum.photos/seed/crew-119/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Wildlife safari",
+        "icon": "🦁"
+      },
+      {
+        "day": 2,
+        "title": "Departure with airport transfer",
+        "icon": "✈️"
+      },
+      {
+        "day": 3,
+        "title": "Mountain trek",
+        "icon": "🏔️"
+      }
+    ]
+  },
+  {
+    "id": "bundle-120",
+    "destination": "Serengeti, Tanzania Escape",
+    "tripType": "Hotel",
+    "price": 3225,
+    "duration": "12 nights",
+    "rating": 5,
+    "imageUrl": "https://picsum.photos/seed/crew-120/800/500",
+    "imageWidth": 800,
+    "imageHeight": 500,
+    "highlights": [
+      {
+        "day": 1,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      },
+      {
+        "day": 2,
+        "title": "Sunset viewpoint visit",
+        "icon": "🌅"
+      },
+      {
+        "day": 3,
+        "title": "Island hopping cruise",
+        "icon": "🚤"
+      },
+      {
+        "day": 4,
+        "title": "Scenic train ride",
+        "icon": "🚆"
+      }
+    ]
+  }
+]
